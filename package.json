@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-back-end",
   "version": "1.0.0",
-  "description": "",
+  "description": "e-commerce-back-end",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://jj77847.github.io/e-commerce-back-end/"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
+  "author": "Jonathan Jefferies",
+  "license": "MIT",
+  "dev": {
     "nodemon": "^2.0.3"
   },
   "dependencies": {
