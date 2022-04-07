@@ -1,0 +1,27 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "e-commerce-back-end",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jj77847.github.io/e-commerce-back-end/"
+  },
+  "keywords": [],
+  "author": "Jonathan Jefferies",
+  "license": "MIT",
+  "dev": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.12.0"
+  }
+}
