@@ -77,7 +77,7 @@ https://choosealicense.com/licenses/mit/
 
       MIT License
 
-      Copyright (c) 2021 Jonathan Jefferies
+      Copyright (c) 2022 Jonathan Jefferies
 
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
